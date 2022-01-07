@@ -9,5 +9,5 @@ package com.itheima.pojo;
 
 public class User {
     private String usesdsdrName;
-    private Integer agedsdsabb;//用户年龄
+    private Integer agedsdsa;//用户年龄
 }
