@@ -8,6 +8,6 @@ package com.itheima.pojo;
  */
 
 public class User {
-    private String userName;
-    private Integer age;//用户年龄
+    private String uservcName;
+    private Integer agcdfde;//用户年龄
 }
